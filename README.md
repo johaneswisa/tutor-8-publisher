@@ -9,3 +9,5 @@ b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the sub
 program, what does it mean?
 
 Kedua program tersebut (publisher dan subscriber) memiliki url yang sama karena kedua program ini menggunakan protokol AMQP untuk berkomunikasi melalui message broker yang sama sehingga kedua program dapat saling berkomunikasi (mengirim dan memproses data).
+
+![alt text](<Screenshot (523).png>)
